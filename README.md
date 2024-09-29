@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Virtual Assistant](https://github.com/HeyDebabrata/Virtual-Assistant)
 
-- 🌱 I’m currently learning **Frontend Developer**
+- 🌱 I’m currently learning **Frontend Development**
 
 - 👯 I’m looking to collaborate on [Analog Clock](https://github.com/HeyDebabrata/Analog-Clock)
 
