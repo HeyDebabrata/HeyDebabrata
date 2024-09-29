@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [Tic Tac Toe](https://github.com/HeyDebabrata/Tic-Tac-Toe)
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/debabrata-swain-0b5137307](www.linkedin.com/in/debabrata-swain-0b5137307)
+- 👨‍💻 All of my projects are available at (https://github.com/HeyDebabrata)
 
 - 💬 Ask me about **HTML,Css,Java Script,BootStrap,jQuery,AngularJs,ReactJs**
 
 - 📫 How to reach me **swaindebabrata24@gmail.com**
 
-- 📄 Know about my experiences [https://scarlet-sara-ann-77.tiiny.site](https://scarlet-sara-ann-77.tiiny.site)
+- 📄 Know about my experiences (https://scarlet-sara-ann-77.tiiny.site)
 
-- ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly.**
+- ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
