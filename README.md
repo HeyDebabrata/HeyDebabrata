@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Debabrata Swain</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
 
-<!--
-**HeyDebabrata/HeyDebabrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heydebabrata&label=Profile%20views&color=0e75b6&style=flat" alt="heydebabrata" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/hey_sonnu" target="blank"><img src="https://img.shields.io/twitter/follow/hey_sonnu?logo=twitter&style=for-the-badge" alt="hey_sonnu" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [Virtual Assistant](https://github.com/HeyDebabrata/Virtual-Assistant)
+
+- 🌱 I’m currently learning **Frontend Developer**
+
+- 👯 I’m looking to collaborate on [Analog Clock](https://github.com/HeyDebabrata/Analog-Clock)
+
+- 🤝 I’m looking for help with [Tic Tac Toe](https://github.com/HeyDebabrata/Tic-Tac-Toe)
+
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/debabrata-swain-0b5137307](www.linkedin.com/in/debabrata-swain-0b5137307)
+
+- 💬 Ask me about **HTML,Css,Java Script,BootStrap,jQuery,AngularJs,ReactJs**
+
+- 📫 How to reach me **swaindebabrata24@gmail.com**
+
+- 📄 Know about my experiences [https://scarlet-sara-ann-77.tiiny.site](https://scarlet-sara-ann-77.tiiny.site)
+
+- ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hey_sonnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hey_sonnu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debabrata swain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debabrata swain" height="30" width="40" /></a>
+<a href="https://instagram.com/hey_dev3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hey_dev3" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heydebabrata&show_icons=true&locale=en&layout=compact" alt="heydebabrata" /></p>
